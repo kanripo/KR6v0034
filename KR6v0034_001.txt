@@ -1,17 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 05:58:15.647711
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:08
 #+TITLE: 因緣心論釋
 #+PROPERTY: CBETA_ID W03n0027
 #+PROPERTY: ID KR6v0034
 #+PROPERTY: SOURCE Buddhist Texts not contained in the Tripitaka Vol. 03, No. 027
 #+PROPERTY: VOL 03
 #+PROPERTY: BASEEDITION W
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6v0034_W_001-0218a> 
 #+PROPERTY: JUAN 1
 ¶
 
-題解¶
+* 因緣心論釋¶
 整理者　華方田¶
 ¶
 
@@ -53,10 +53,9 @@
 
 <pb:KR6v0034_W_001-0219a>¶
 
-錄文¶
+* 〔錄文〕¶
 ¶
-
- 因緣心論釋¶
+因緣心論釋¶
 龍猛菩薩造¶
 ¶
 
@@ -138,9 +137,9 @@
 　此中無可遣
 　，亦無少安立，¶
 　於真以觀真
-　，見真而解脫。
+　，見真而解脫。」
 #+END_VERSE
-」¶
+¶
 ¶
 因緣心論釋一卷¶
 ¶
